@@ -69,7 +69,7 @@ ceptibility genetic test results. Hum Mutat 29:1282–1291)
 Il existe d'autre système de classification : par exemple celle proposée dans les recommandations de bonnes pratique de la Dutch and British societies for clinical molecular genetics (http://cmgsweb.shared.hosting.zen.co.uk/BPGs/Best_Practice_Guidelines.htm)
 
 ### Q3
-a) NM_001190274.1 est le numéro de la séquence de FBXO11 prise comme référence pour l'étude de ce gène. NM_ signifie qu'il s'agit d'une séquence d'ARNm, 001190274 est le numéro d'accession de la séquenc"e et 1 signifie qu'il s'agit de la première version de cette séquence.
+a) NM_001190274.1 est le numéro de la séquence de FBXO11 prise comme référence pour l'étude de ce gène. NM_ signifie qu'il s'agit d'une séquence d'ARNm, 001190274 est le numéro d'accession de la séquence et 1 signifie qu'il s'agit de la première version de cette séquence.
 b)HGVS correspond à human genome variation society. Il s'agit d'une société qui a pour but de rassembler les information à propos des variants génomiques et leurs liens avec des phénotypes. La notation HGVS correspond à un système de classification des variants expliqué dans la question 3.a)
 c) GRCh37/hg19 (Genome Reference Consortium Human Build 37) est un génome de référence d'un humain (Homo Sapiens) publié le 27/02/2009. hg 19 est un synonyme de GRCh37
 
@@ -90,6 +90,6 @@ Pour le patient 2 :
 FBXO11 est un bon candidat pour la déficience intellectuelle car :
 -il est statistiquement associé à la schizophrénie lors de GWAS lorsqu'il est muté
 -il est exprimé dans le système nerveux central (“Brain—Cerebellar Hemisphere” and “Brain—Cerebellum”)
--Les variants qui entrainent une perte de fonction du gène sont très rares (absent de nombreuses bases de données), lmais présent chez deux individus (patients 1 et 2) qui présentent un phénotype de déficience intellectuelle
+-Les variants qui entrainent une perte de fonction du gène sont très rares (absent de nombreuses bases de données), mais présents chez deux individus (patients 1 et 2) qui présentent un phénotype de déficience intellectuelle
 -le gène est conservé à 100% dans le génome de cent vertébrés ce qui indique une importance fonctionnelle
--les trois individus étudiés dans l'articles qui présentent une mutation sur ce gène ont tous le même phénotype
+-les trois individus étudiés dans l'articles qui présentent une mutation sur ce gène ont tous le même phénotype.

@@ -80,3 +80,16 @@ L'exome des patients a été séquencé à partir de sang périphérique. Puis l
 Après avoir isolé FBXO11 comme gène candidat pour expliquer les déficiences intellectuels des deux sujets, un séquençage de Sanger est réalisé. C'est le gold standard : il permet de s'assurer que les mutations obsorvées lors du séquençage de l'exome entier existent réellement. Dans l'article, on suppose que les mutations qui causent le phénotype de déficience intellectuelle sont de novo. Il faut donc aussi séquencer les gènes FBXO11 des parents et confirmer la paternité et la maternité (don d'ovocytes) pour affirmer le statut de novo des mutations des enfants.
 
 ### Q6
+Pour le patient 1 :
+-variant d'épissage sans équivoque
+Pour le patient 2 : 
+- décalage de cadre avec apparition d'un codon stop prématuré en position 913
+- toutes les autres variations ont été classés bénigne ou sans lien avec le phénotype du sujet
+
+### Q7
+FBXO11 est un bon candidat pour la déficience intellectuelle car :
+-il est statistiquement associé à la schizophrénie lors de GWAS lorsqu'il est muté
+-il est exprimé dans le système nerveux central (“Brain—Cerebellar Hemisphere” and “Brain—Cerebellum”)
+-Les variants qui entrainent une perte de fonction du gène sont très rares (absent de nombreuses bases de données), lmais présent chez deux individus (patients 1 et 2) qui présentent un phénotype de déficience intellectuelle
+-le gène est conservé à 100% dans le génome de cent vertébrés ce qui indique une importance fonctionnelle
+-les trois individus étudiés dans l'articles qui présentent une mutation sur ce gène ont tous le même phénotype

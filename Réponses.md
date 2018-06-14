@@ -52,6 +52,31 @@ Les deux variants se trouvent dans l'exon 1 du transcrit 5249.4
 
 ## Exercice 2
 ### Q1
-Texte de votre réponse…
+OMIM est une base de données qui contient des informations à propos de toutes les maladies mendeléiennes connues et sur plus de 15,000 gènes. C'est un outils utile pour analyser les liens entre un phénotype observé et des gènes candidats pour expliquer ces phénotypes.
+DDG2P gene list (Developmental Disorders Genotype-Phenotype Database) est une base de données contenant une liste de gènes dont on soupçonne l'association avec des troubles du développement. Elle est réalisée part des cliniciens faisant partie de l'étude DDD (Decipehering Developmental Disorders). Elle permet d'associer à un gène la probabilité qu'il soit impliqué dans un phénotype de déficience intellectuelle par exemple.
 ### Q2
-Texte de votre réponse…
+La classification proposée par Plon et al. est une classification qui permet de classer les variant en fonction de leur probabilité d'être pathogène. C'est un système qui permet en théorie de classifier tout gène de susceptibilité à un cancer.
+En fonction de différents critères les gènes sont classés dans une catégorie :
+- definitely pathogenic : probabilité de poathogénicité > 0.99
+- likely pathogénique : 0.95-0.99
+- uncertain : 0.05-0.949
+- likely not pathogenic or of little clinical significance : 0.001-0.049
+-not pathogenic or of no clinical significance : <0.001
+(sources : Plon SE et al (2008) Sequence variant classification and reporting: 
+recommendations for improving the interpretation of cancer sus-
+ceptibility genetic test results. Hum Mutat 29:1282–1291)
+
+Il existe d'autre système de classification : par exemple celle proposée dans les recommandations de bonnes pratique de la Dutch and British societies for clinical molecular genetics (http://cmgsweb.shared.hosting.zen.co.uk/BPGs/Best_Practice_Guidelines.htm)
+
+### Q3
+a) NM_001190274.1 est le numéro de la séquence de FBXO11 prise comme référence pour l'étude de ce gène. NM_ signifie qu'il s'agit d'une séquence d'ARNm, 001190274 est le numéro d'accession de la séquenc"e et 1 signifie qu'il s'agit de la première version de cette séquence.
+b)HGVS correspond à human genome variation society. Il s'agit d'une société qui a pour but de rassembler les information à propos des variants génomiques et leurs liens avec des phénotypes. La notation HGVS correspond à un système de classification des variants expliqué dans la question 3.a)
+c) GRCh37/hg19 (Genome Reference Consortium Human Build 37) est un génome de référence d'un humain (Homo Sapiens) publié le 27/02/2009. hg 19 est un synonyme de GRCh37
+
+### Q4
+L'exome des patients a été séquencé à partir de sang périphérique. Puis le résultat de séquençage est analysé : les variants sont isolés et annotés en fonction de leur qualité. Puis les variants ont été comparés aux bases de données pour éliminer les variants déjà connus pour causer des déficiences intellectuelles. Puis des prévisions in silico de la pathogénicité des mutations sont réalisées. Les gènes candidats isolés sont ensuite séquencés par séquençage de Sanger
+
+### Q5
+Après avoir isolé FBXO11 comme gène candidat pour expliquer les déficiences intellectuels des deux sujets, un séquençage de Sanger est réalisé. C'est le gold standard : il permet de s'assurer que les mutations obsorvées lors du séquençage de l'exome entier existent réellement. Dans l'article, on suppose que les mutations qui causent le phénotype de déficience intellectuelle sont de novo. Il faut donc aussi séquencer les gènes FBXO11 des parents et confirmer la paternité et la maternité (don d'ovocytes) pour affirmer le statut de novo des mutations des enfants.
+
+### Q6
